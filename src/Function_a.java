@@ -1,6 +1,6 @@
 //create Function_a class inherit AbstractDrawFunction
 public class Function_a extends AbstractDrawFunction {
-	//new constructor
+	//new constructor Function_a
 	public Function_a (){
 		
 	}
