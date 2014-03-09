@@ -10,7 +10,7 @@ public class Test {
 		//Prompt the user to enter x
 		double x = input.nextDouble();
 		
-		//Create seven objects 
+		//Create seven objects and invoke the constructors
 		Function_a aaa = new Function_a();
 		Function_b bbb = new Function_b();
 		Function_c ccc = new Function_c();
